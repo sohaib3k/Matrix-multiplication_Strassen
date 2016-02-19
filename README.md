@@ -18,5 +18,3 @@ https://github.com/MartinThoma/matrix-multiplication/blob/master/C%2B%2B/strasse
 Testing has been done using a class named testMatrix which has a function checkMatrixMutiplication.
 This calls both Strassen and Iterative functions and subtracts their 2d vectors. If the resulting 2d vector is all zeroes, the test case passes. Otherwise it fails.
 
-Acknowledgement:
-Help given to many classmates.
